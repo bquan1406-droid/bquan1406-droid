@@ -30,11 +30,15 @@ A machine learning web app that predicts CPU PassMark benchmark scores from hard
 
 ## Skills
 
-**Machine Learning** — LightGBM, XGBoost, scikit-learn, Optuna, SHAP
+**Machine Learning** — LightGBM, XGBoost, Random Forest, Linear Regression, scikit-learn, Optuna, SHAP
 
-**Data** — pandas, numpy, feature engineering, imbalanced learning
+**Data** — pandas, numpy, exploratory data analysis, feature engineering, log transformation, imbalanced learning, multi-table joins
 
-**Deployment** — Streamlit, Docker, GitHub Actions
+**Model Evaluation** — AUC-ROC, R², RMSE, classification reports, ROC curves, cross-validation
+
+**Explainability** — SHAP summary plots, force plots, feature importance analysis
+
+**Deployment** — Streamlit, Docker, GitHub
 
 **Languages** — Python, SQL
 
@@ -42,7 +46,7 @@ A machine learning web app that predicts CPU PassMark benchmark scores from hard
 
 ## Currently
 
-- 🎓 Finishing my Bachelor of Science in Data Science at the University of Hertfordshire — graduating November 2025
+- 🎓 Finishing my Bachelor of Science in Data Science at the University of Hertfordshire — graduating November 2026
 - 🔍 Open to Data Scientist and Data Analyst internships in Singapore and Vietnam
 - 🌱 Building portfolio projects that solve real business problems with explainable ML
 
@@ -53,4 +57,4 @@ A machine learning web app that predicts CPU PassMark benchmark scores from hard
 Feel free to reach out if you're hiring or want to collaborate.
 
 📧 your-email-here
-🔗 [LinkedIn](your-linkedin-url-here)
+🔗 [LinkedIn](https://www.linkedin.com/in/quan-tran-7b2172353/)
