@@ -1,60 +1,66 @@
-# Hi, I'm Quan (Tim) 👋
-
-I'm a Data Science student at the University of Hertfordshire, graduating in November 2026. I'm actively looking for Data Scientist and Data Analyst internship opportunities in Singapore and Vietnam.
-
-I enjoy building end-to-end machine learning projects that go beyond notebooks — from feature engineering and model tuning to deployed, explainable applications that tell a clear business story.
+<!-- Header Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=1000&lines=I'm+Tran+Bao+Quan;18+%7C+Data+Scientist;Graduating+Nov+2026+%7C+B.Sc.+Data+Science;I+ship+ML+from+notebook+→+production)](https://git.io/typing-svg)
 
 ---
 
-## Projects
+### 🧠 About Me
 
-### 🛒 E-Commerce Customer Churn Prediction
-Predicting whether an e-commerce customer will ever make a second purchase, using real commercial transaction data — 100,000 orders across 9 relational tables. Engineered 21 customer-level features, trained a LightGBM model tuned with Optuna to AUC 0.9991, and used SHAP to explain individual predictions at the customer level.
+I'm an 18-year-old data scientist graduating in **November 2026** with a B.Sc. in Data Science.
+I build end-to-end ML systems that are **explainable, deployable, and business-focused** — from feature engineering to SHAP insights to production-ready APIs.
 
-Key finding: delivery delay — not price or product quality — is the single biggest driver of churn. Deployed as an interactive Streamlit dashboard with real-time predictions and business recommendations.
-
-**Tools:** Python, LightGBM, Optuna, SHAP, Streamlit
-
-🔗 [Live Demo](your-streamlit-url-here) · [Repository](https://github.com/bquan1406-droid/ecommerce-churn-prediction)
-
----
-
-### 💻 CPU Benchmark Predictor
-A machine learning web app that predicts CPU PassMark benchmark scores from hardware specifications using XGBoost. Built to help consumers and hardware enthusiasts estimate real-world CPU performance before purchasing, based on specs alone.
-
-**Tools:** Python, XGBoost, Streamlit
-
-🔗 [Live Demo](https://cpu-benchmark-predictor-a8u8nlutckczmxxv24q6tw.streamlit.app/) · [Repository](https://github.com/bquan1406-droid/cpu-benchmark-predictor)
+**What I do:**
+- 🧪 **Feature Engineering** — Turn raw, messy data into predictive signals
+- 📊 **Data Viz & Explainability** — Uncover hidden patterns & demystify models with **SHAP**
+- ⚡ **Scalable ML** — **XGBoost** & **LightGBM** for high-performance tabular data
+- 🚀 **MLOps-lite** — **FastAPI** for real-time predictions + **Streamlit** for interactive dashboards
+- 🔔 **Production Alerts** — Discord webhooks for real-time fraud alerts
 
 ---
 
-## Skills
+### 🛠️ My Toolbox
 
-**Machine Learning** — LightGBM, XGBoost, Random Forest, Linear Regression, scikit-learn, Optuna, SHAP
-
-**Data** — pandas, numpy, exploratory data analysis, feature engineering, log transformation, imbalanced learning, multi-table joins
-
-**Model Evaluation** — AUC-ROC, R², RMSE, classification reports, ROC curves, cross-validation
-
-**Explainability** — SHAP summary plots, force plots, feature importance analysis
-
-**Deployment** — Streamlit, Docker, GitHub
-
-**Languages** — Python, SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-413C3C?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-008080?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-FFB300?style=for-the-badge)
 
 ---
 
-## Currently
+### 📌 Featured Projects
 
-- 🎓 Finishing my Bachelor of Science in Data Science at the University of Hertfordshire — graduating November 2026
-- 🔍 Open to Data Scientist and Data Analyst internships in Singapore and Vietnam
-- 🌱 Building portfolio projects that solve real business problems with explainable ML
+Here's what I've been building — each project is a complete story from raw data to working app.
+
+| Project | What I Built | Key Insight | Stack |
+| :--- | :--- | :--- | :--- |
+| **[E‑Commerce Churn Prediction](https://github.com/bquan1406-droid/ecommerce-churn-prediction)** | Predict if a customer will ever make a second purchase. Live Streamlit dashboard with SHAP explanations. | **Delivery delay, not price, is the #1 driver of churn.** | LightGBM, Optuna, SHAP, Streamlit |
+| **[Fraud Detection API](https://github.com/bquan1406-droid/fraud-detection-api)** | Real-time credit card fraud API. Catches 72% of fraud with 50% precision. FastAPI + Discord alerts. | Imbalanced classification works better with optimized thresholds & features. | XGBoost, FastAPI, Discord Webhooks, Streamlit |
+| **[CPU Benchmark Predictor](https://github.com/bquan1406-droid/cpu-benchmark-predictor)** | Predict PassMark score from CPU specs. XGBoost model with **R² = 0.983**. | `threadMark` & cores matter more than clock speed or price. | XGBoost, SHAP, Streamlit |
 
 ---
 
-## Let's Connect
+### 📈 GitHub Stats
 
-Feel free to reach out if you're hiring or want to collaborate.
+<img src="https://github-readme-stats.vercel.app/api?username=bquan1406-droid&show_icons=true&theme=radical&hide_border=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bquan1406-droid&layout=compact&theme=radical&hide_border=true" width="48%">
 
-📧 your-email-here
-🔗 [LinkedIn](https://www.linkedin.com/in/quan-tran-7b2172353/)
+---
+
+### 🏆 What Drives Me
+- Becoming a better data scientist. Learning new skills. Building things that work. Every single day. 🚀
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quan-tran-7b2172353/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tim1234567890)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baoquan1406@gmail.com)
+
+---
+
+⭐ *From raw data to real decisions — explainable, deployable, impactful.*
