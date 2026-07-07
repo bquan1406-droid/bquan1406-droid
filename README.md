@@ -1,7 +1,4 @@
-<!-- Header Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=1000&lines=I'm+Tran+Bao+Quan;18+%7C+Data+Scientist;Graduating+Nov+2026+%7C+B.Sc.+Data+Science;I+ship+ML+from+notebook+→+production)](https://git.io/typing-svg)
 
----
 
 ### 🧠 About Me
 
